@@ -1,0 +1,68 @@
+
+{
+	"landing": {
+		"firstName": "Hein Htet",
+		"lastName": "Aung",
+		"phoneNumber": "+959772700777",
+		"bio": "I'm a web developer.",
+    "email": "heinhtetaung@uy.edu.mm",
+		"linkedin": "https://www.linkedin.com/in/hein-htet-11717a1ba/",
+		"github": "https://github.com/hainhtat"
+	},
+	"experience": [
+		{
+				"position": "Web Developer Internship",
+				"organization": "Job For Student",
+				"aboutWork": "Responsibe for helping a website",
+				"fromDate": "Oct 2018",
+				"toDate": "Dec 2018"
+		},
+		{
+			"position": "Web Developer Intern",
+			"organization": "Digital Laboratory",
+			"aboutWork": "Responsible for developing landing pages",
+			"fromDate": "Oct 2019",
+			"toDate": "Dec 2019"
+		}
+	],
+	"education": [{
+			"university": "University Of Yangon",
+			"degree": "Bachelo of computer science",
+			"fromDate": "December 2017",
+			"toDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "Php"
+		},
+		{
+			"name": "Wordpress"
+		},
+		{
+			"name": "Python"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Apart from web developing, I like playing games, going out and reading.",
+		"paragraphTwo": "When indoors, I watch animes and sci-fi and horror movies."
+	},
+	"awards": [{
+			"awardDetail": "Completion of Web Developer course at Fairway"
+		},
+		{
+			"awardDetail": "CS50 Introduction to Computer Science"
+		},
+		{
+			"awardDetail": "Samsung Basic App inventor course."
+		}
+	]
+}
